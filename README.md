@@ -1,2 +1,2 @@
 # Weather-Application
-Simple weather application using API programmed in Pythonthat show real time weather description
+Simple weather application using API programmed in Python that show real time weather description
